@@ -13,7 +13,7 @@ Una aplicación web simple y elegante para realizar sorteos de "Amigo Secreto" d
 
 ## 🚀 Demo
 
-![Sorteo de Amigo Secreto](https://img.shields.io/badge/Status-Funcionando-brightgreen)
+https://danguel.github.io/JuegoAmigoSecreto/
 
 ## 📋 Cómo usar
 
