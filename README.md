@@ -90,5 +90,4 @@ Si encuentras algún bug o tienes una sugerencia, por favor:
 2. Crea un nuevo issue describiendo el problema
 3. Incluye pasos para reproducir el error
 
-
 ⭐ ¡Si te gusta este proyecto, no olvides darle una estrella en GitHub!
